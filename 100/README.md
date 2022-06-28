@@ -1,6 +1,6 @@
 # 100 - Introduction
 
-In our companion project **[requirements-management](https://xxx/requirements-management)** we will have the API Backend for this Headless Content Management System.
+In our companion project **[requirements-management](https://github.com/vanHeemstraSystems/requirements-management)** we will have the API Backend for this Headless Content Management System.
 
 Updated April 2020
 
