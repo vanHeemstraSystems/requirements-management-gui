@@ -15,8 +15,6 @@ Based on "Dockerizing a React App" at https://mherman.org/blog/dockerizing-a-rea
 
 Based on "Dockerize your Next.JS application" at https://medium.com/swlh/dockerize-your-next-js-application-91ade32baa6
 
-This a companion repository of [PWC Requirements Management](https://apps-bbdc-prd.asml.com/projects/DEVOPS/repos/pwc-requirements-management).
-
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
